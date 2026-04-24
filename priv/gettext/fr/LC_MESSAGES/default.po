@@ -818,7 +818,7 @@ msgid "Calls Are Forced"
 msgstr ""
 
 msgid "Cancel"
-msgstr ""
+msgstr "Annuler"
 
 msgid "Cancellable Riichi"
 msgstr ""
@@ -914,7 +914,7 @@ msgid "Chon"
 msgstr ""
 
 msgid "Choose a tile to draw"
-msgstr ""
+msgstr "Choisis une tuile à piocher"
 
 msgid "Choose kamicha"
 msgstr ""
@@ -956,10 +956,10 @@ msgid "Clear"
 msgstr ""
 
 msgid "Click to exit."
-msgstr ""
+msgstr "Clique pour quitter."
 
 msgid "Click to return to the list of tutorials."
-msgstr ""
+msgstr "Clique pour retourer à la liste de tutoriels."
 
 msgid "Close"
 msgstr ""
@@ -1037,16 +1037,16 @@ msgid "Cosmic Riichi"
 msgstr ""
 
 msgid "Create a room"
-msgstr ""
+msgstr "Créer une room"
 
 msgid "Create and play your own custom ruleset."
 msgstr ""
 
 msgid "Create your own tutorial!"
-msgstr ""
+msgstr "Créée ton propre tutoriel !"
 
 msgid "Created by Dani in their spare time."
-msgstr ""
+msgstr "Créé par Dani pendant son temps libre."
 
 msgid "Custom"
 msgstr ""
@@ -1139,10 +1139,10 @@ msgid "Disallow swap-calling."
 msgstr ""
 
 msgid "Discard"
-msgstr ""
+msgstr "Défausser"
 
 msgid "Discard a character tile to continue."
-msgstr ""
+msgstr "Défausse une tuile €€character pour continuer."
 
 msgid "Discard facedown"
 msgstr ""
@@ -1982,7 +1982,7 @@ msgid "Jindai Komaki"
 msgstr ""
 
 msgid "Join private room"
-msgstr ""
+msgstr "Rejoindre une room privée"
 
 msgid "Joker"
 msgstr ""
@@ -2162,7 +2162,7 @@ msgid "Last Tile Draw"
 msgstr ""
 
 msgid "Learn"
-msgstr ""
+msgstr "Apprendre"
 
 msgid "Lesser Honors and Knitted Tiles"
 msgstr ""
@@ -2192,10 +2192,10 @@ msgid "Little Three Winds"
 msgstr ""
 
 msgid "Loading..."
-msgstr ""
+msgstr "Chargement..."
 
 msgid "Lobby"
-msgstr ""
+msgstr "Lobby"
 
 msgid "Local yaku. 1 han for having a three-color straight, like 123m 456p 789s. 2 han if closed."
 msgstr ""
@@ -2948,7 +2948,7 @@ msgid "Prevalent Wind"
 msgstr ""
 
 msgid "Private"
-msgstr ""
+msgstr "Privé"
 
 msgid "Pts"
 msgstr ""
@@ -3176,7 +3176,7 @@ msgid "Ron previous discard"
 msgstr ""
 
 msgid "Room settings"
-msgstr ""
+msgstr "Réglages de la room"
 
 msgid "Round Wind"
 msgstr ""
@@ -3536,7 +3536,7 @@ msgid "Sorry for the trick question! Galaxy mahjong adds a new win condition: ha
 msgstr ""
 
 msgid "Sorry, there are currently no tutorials for this ruleset!"
-msgstr ""
+msgstr "Désolé, il n'y a pas encore de tutoriel pour ce €€ruleset "
 
 msgid "Source"
 msgstr ""
@@ -3572,19 +3572,19 @@ msgid "Star Suit (beta)"
 msgstr ""
 
 msgid "Start game"
-msgstr ""
+msgstr "Commencer la partie"
 
 msgid "Starting Points"
 msgstr ""
 
 msgid "Starting game..."
-msgstr ""
+msgstr "Lancement de la partie..."
 
 msgid "Steal tile and declare riichi"
 msgstr ""
 
 msgid "Sudden Death"
-msgstr ""
+msgstr "Mort Subite"
 
 msgid "Suehara Kyouko"
 msgstr ""
@@ -4121,13 +4121,13 @@ msgid "Variant:"
 msgstr ""
 
 msgid "Vietnamese"
-msgstr ""
+msgstr "Vietnamien"
 
 msgid "Vietnamese Jokers"
-msgstr ""
+msgstr "Jokers vietnamiens"
 
 msgid "View log"
-msgstr ""
+msgstr "Voir le log"
 
 msgid "Viewing log for a"
 msgstr ""
@@ -4166,7 +4166,7 @@ msgid "We're now tenpai, waiting on white dragon, but unfortunately we have no y
 msgstr ""
 
 msgid "Welcome to Riichi Advanced!"
-msgstr ""
+msgstr "Bienvenue dans Riichi Advanced !"
 
 msgid "Welcome to cosmic riichi! This is a space mahjong variant that adds several new calls and ways to earn +0.5 han and +1 fu. Let's get started."
 msgstr ""

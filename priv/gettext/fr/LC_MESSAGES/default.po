@@ -56,10 +56,10 @@ msgid "(Ao) If your hand is closed, each ao dora is worth two shuugi chips."
 msgstr ""
 
 msgid "(Click the tile to discard it.)"
-msgstr ""
+msgstr "(Clique sur la tuile pour la défausser.)"
 
 msgid "(Click to continue)"
-msgstr ""
+msgstr "(Clique pour continuer)"
 
 msgid "(Cosmic) If you fuun and then tsumo on the replacement tile, you are awarded rinshan (1 han)."
 msgstr ""
@@ -86,7 +86,7 @@ msgid "(Kansai) At the end of the game, chips are exchanged based on placement a
 msgstr ""
 
 msgid "(Kansai) Everyone starts with 50000 points."
-msgstr ""
+msgstr "(Kansai) Tout le monde commence avec 50000 points."
 
 msgid "(Kansai) In the south round only, the round repeats on exhaustive draws regardless of anyone's tenpai status."
 msgstr ""
@@ -392,7 +392,7 @@ msgid "Abortive Draws"
 msgstr ""
 
 msgid "About"
-msgstr ""
+msgstr "À propos"
 
 msgid "Add mixed triplets, or kontsu. If you have the same number in three suits, that counts as one of your sets towards four sets and a pair. For example, 1m1s1p is a kontsu. Also considered kontsu: 3 different winds, or one of each dragon."
 msgstr ""
@@ -635,7 +635,7 @@ msgid "Amatsuki Mahjong"
 msgstr ""
 
 msgid "American"
-msgstr ""
+msgstr "États-unien"
 
 msgid "American (NMJL)"
 msgstr ""
@@ -644,7 +644,7 @@ msgid "American Civil War"
 msgstr ""
 
 msgid "American Mah-Jongg. Assemble hands with jokers, and declare other players' hands dead. Rules are slightly different from MJME (see rules page)."
-msgstr ""
+msgstr "Mah-Jongg États-unien. Assembles des mains avec des jokers et tues les mains des autres joueurs. Les règles sont légèrement différentes du MJME (voir la page de règles)."
 
 msgid "Anetai Toyone"
 msgstr ""
@@ -698,7 +698,7 @@ msgid "At exhaustive draw, you are not considered tenpai if all four tiles of ea
 msgstr ""
 
 msgid "At the end of the game, 1st/2nd/3rd/4th receive a bonus of %{_1st}/%{_2nd}/%{_3rd}/%{_4th} points."
-msgstr ""
+msgstr "À la fin de la partie, les 1er/2nd/3ème/4ème reçoivent un bonus de %{_1st}/%{_2nd}/%{_3rd}/%{_4th} points."
 
 msgid "At the end of the game, all leftover riichi sticks on the table are given to first place. (Otherwise they are lost.)"
 msgstr ""
@@ -716,7 +716,7 @@ msgid "Australian"
 msgstr ""
 
 msgid "Back"
-msgstr ""
+msgstr "Retour"
 
 msgid "Baida Pair Win"
 msgstr ""
@@ -1040,7 +1040,7 @@ msgid "Create a room"
 msgstr "Créer une room"
 
 msgid "Create and play your own custom ruleset."
-msgstr ""
+msgstr "Créer et jouer ton ruleset personalisé."
 
 msgid "Create your own tutorial!"
 msgstr "Créée ton propre tutoriel !"
@@ -1382,10 +1382,10 @@ msgid "Enables ura dora."
 msgstr ""
 
 msgid "Enter"
-msgstr ""
+msgstr "Entrer"
 
 msgid "Enter room code:"
-msgstr ""
+msgstr "Entrer le code de la room:"
 
 msgid "Entered a %{ruleset} game, room code %{room_code}"
 msgstr ""
@@ -1394,7 +1394,7 @@ msgid "Entered a %{ruleset} game, room code %{room_code} with mods %{mods}"
 msgstr ""
 
 msgid "Entered lobby for variant %{ruleset}"
-msgstr ""
+msgstr "Entrer dans le lobbyr pour la variante %{ruleset}"
 
 msgid "Entered room %{room_code} for variant %{ruleset}"
 msgstr ""
@@ -1442,13 +1442,13 @@ msgid "Filipino"
 msgstr ""
 
 msgid "Final Discard"
-msgstr ""
+msgstr "Défausse Finale"
 
 msgid "Final Draw"
-msgstr ""
+msgstr "Pioche Finale"
 
 msgid "Final Tile"
-msgstr ""
+msgstr "Tuile Finale"
 
 msgid "First Gets Riichi Sticks"
 msgstr ""
@@ -2666,7 +2666,7 @@ msgid "No Fifth Tile Tenpai"
 msgstr ""
 
 msgid "No Flowers"
-msgstr ""
+msgstr "Pas de Fleur."
 
 msgid "No Flowers or Honors"
 msgstr ""
@@ -3458,7 +3458,7 @@ msgid "Show wall"
 msgstr ""
 
 msgid "Shuffle seats on start?"
-msgstr ""
+msgstr "Mélanger les places au lancement ?"
 
 msgid "Shuugi"
 msgstr ""
@@ -4199,7 +4199,7 @@ msgid "Wild Card Single Wait"
 msgstr ""
 
 msgid "Win Condition"
-msgstr ""
+msgstr "Conditions de victoire"
 
 msgid "Win On Baida"
 msgstr ""
@@ -4337,7 +4337,7 @@ msgid "You have no calls and your winning hand is the pattern 1112345678999 in o
 msgstr ""
 
 msgid "You have no flowers."
-msgstr ""
+msgstr "Tu n'as aucune fleur."
 
 msgid "You have the option to declare open riichi, which is worth 2 han but reveals your hand to the table. Open double riichi is 3 han."
 msgstr ""
@@ -4361,7 +4361,7 @@ msgid "You may also call ron on concealed kans, but only if you are tenpai for k
 msgstr ""
 
 msgid "You may win with one of the following:"
-msgstr ""
+msgstr "Tu peux gagner en remplissant une des conditions suivantes: "
 
 msgid "You might also note the distinct lack of character tiles in your hand. This is because most of the character suit has been removed, except for the 1 and 9 of characters."
 msgstr ""
@@ -4442,16 +4442,16 @@ msgid "Your hand consists only of honor tiles."
 msgstr ""
 
 msgid "Your hand contains four kans."
-msgstr ""
+msgstr "Ta main contient quatre kans."
 
 msgid "Your hand contains only tiles numbered 2-8."
-msgstr ""
+msgstr "Ta main contient uniquement des tuiles numérotées de 2 à 8."
 
 msgid "Your hand contains the sequences 123 456 879 in one suit."
 msgstr ""
 
 msgid "Your hand contains three kans."
-msgstr ""
+msgstr "Ta main contient trois kans."
 
 msgid "Your hand contains triplets or kans of all three dragons."
 msgstr ""
@@ -4463,7 +4463,7 @@ msgid "Your hand has three closed triplets in hand, and you won by self-drawing 
 msgstr ""
 
 msgid "Your hand must score at least %{score} han to win."
-msgstr ""
+msgstr "Ta main doit marquer au moins %{score} han pour gagner."
 
 msgid "Your hand must score at least mangan to win."
 msgstr ""
@@ -4562,7 +4562,7 @@ msgid "declared the following yaku:"
 msgstr ""
 
 msgid "discarded %{tile}"
-msgstr ""
+msgstr "%{tile} défaussée"
 
 msgid "drawless"
 msgstr ""
@@ -4664,7 +4664,7 @@ msgid "revealed tiles %{tiles}"
 msgstr ""
 
 msgid "scored a %{score}-point hand"
-msgstr ""
+msgstr "a marqué une main de %{score} points"
 
 msgid "sou"
 msgstr ""
@@ -4694,10 +4694,10 @@ msgid "true"
 msgstr ""
 
 msgid "value"
-msgstr ""
+msgstr "valeur"
 
 msgid "west"
-msgstr ""
+msgstr "ouest"
 
 msgid "win_on"
 msgstr ""
@@ -4709,10 +4709,10 @@ msgid "with mods"
 msgstr ""
 
 msgid "with yaku:"
-msgstr ""
+msgstr "avec le yaku: "
 
 msgid "worth"
-msgstr ""
+msgstr "valeur"
 
 msgid "x"
 msgstr ""
